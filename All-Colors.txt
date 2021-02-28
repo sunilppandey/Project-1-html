@@ -1,0 +1,22 @@
+
+all color codes:Instead of name use Hex Code of color
+Landing-Page
+white - #F0F8FA
+pink  - EE3465
+darkGray - #242B3B
+
+-------------------------------
+Logo Text : 
+orange : #F8A54C
+
+-----------------------------
+
+linear gradient:
+
+for Button:
+pink #EE3465 
+yellow #FFCB39
+
+for Container:
+pink #EE3465 
+Dark-gray #242B3B
